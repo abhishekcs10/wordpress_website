@@ -1,0 +1,91 @@
+/* widget one page */
+
+.one-page-nav {
+	background: rgba(255,255,255,.8);
+	margin: 0;
+	text-align: center;
+}
+
+.one-page-nav li {
+	cursor: pointer;
+	display: inline-block;
+	vertical-align: middle;
+	text-decoration: none;
+	text-shadow: 0 -1px 1px #777;
+	color: #fff;
+	outline: none;
+	border: 2px solid #F64C2B;
+	border-radius: 5px;
+	box-shadow: 0 0 0 60px rgba(0,0,0,0) inset, .1em .1em .2em #800;
+	background: linear-gradient(#FB9575, #F45A38 48%, #EA1502 52%, #F02F17);
+}
+
+#page .one-page-nav li:hover {
+	color: rgba(255,255,255,.9);
+	text-shadow: #2e7ebd 0 1px 2px;
+	text-decoration: none;
+	text-align: center;
+	white-space: pre-line;
+	border: 1px solid;
+	border-color: #60a3d8 #2970a9 #2970a9 #60a3d8;
+	border-radius: 6px;
+	outline: none;
+	background: #60a3d8 linear-gradient(#89bbe2, #60a3d8 50%, #378bce);
+	box-shadow: inset rgba(255,255,255,.5) 1px 1px;
+	transition: 0.2s;
+}
+
+.one-page-nav li:hover {
+  background-size: 140% 100%, auto;
+}
+
+.one-page-nav li:active {
+  top: .1em;
+  left: .1em;
+  box-shadow: 0 0 0 60px rgba(0,0,0,.05) inset;
+}
+
+.one-page-nav .invisible {
+	display: none;
+}
+
+.wide .widget.aladdin_sidebar_nav {
+	padding-bottom: 0;
+}
+
+.wide .widget.aladdin_sidebar_nav .current {
+	color: rgba(255,255,255,.9);
+	text-shadow: #2e7ebd 0 1px 2px;
+	text-decoration: none;
+	text-align: center;
+	white-space: pre-line;
+	border: 1px solid;
+	border-color: #60a3d8 #2970a9 #2970a9 #60a3d8;
+	border-radius: 6px;
+	outline: none;
+	background: #60a3d8 linear-gradient(#89bbe2, #60a3d8 50%, #378bce);
+	box-shadow: inset rgba(255,255,255,.5) 1px 1px;
+}
+
+.site .wide .widget.aladdin_sidebar_nav li:before {
+	content: '';
+}
+
+.site .wide .widget.aladdin_sidebar_nav > div {
+	max-width: 100%;
+}
+
+.one-page-nav li{
+	margin: 5px;
+	padding: .2em 0.5em;
+}
+
+@media screen and (min-width: 680px) {	
+	.one-page-nav li{
+		font-size: 14px;
+		min-width: 100px;
+		margin: 10px;
+		outline: none;
+		padding: .8em 2em;
+	}
+}

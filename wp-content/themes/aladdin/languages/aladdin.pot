@@ -1,0 +1,1627 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-08-01 23:44+0300\n"
+"PO-Revision-Date: 2015-08-01 23:45+0300\n"
+"Last-Translator:\n"
+"Language-Team: \n"
+"Language:\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ./\n"
+"Plural-Forms:\n"
+"X-Poedit-KeywordsList: __;_n:1,2;_x:1,2c;_e;esc_attr_x;_x;esc_html_e;"
+"esc_html__\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: .\n"
+
+#: ../archive-jetpack-portfolio.php:21 ../inc/widget-portfolio.php:241
+#: ../inc/widget-portfolio.php:256
+msgid "All Projects"
+msgstr ""
+
+#: ../archive.php:23
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:26
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:26
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:29
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:29
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:32
+msgid "Archives"
+msgstr ""
+
+#: ../author.php:25
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../comments.php:22
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-archive.php:26 ../content-jetpack-portfolio-archive.php:29
+#: ../content-page-archive.php:25
+msgid "Read more.."
+msgstr ""
+
+#: ../content-archive.php:46
+msgid "<div class=\"meta-nav\">Continue reading... &rarr;</div>"
+msgstr ""
+
+#: ../content-archive.php:65 ../content-jetpack-portfolio-archive.php:67
+#: ../content-jetpack-portfolio.php:79 ../content-page-archive.php:56
+#: ../content-page.php:43 ../content.php:79 ../inc/widget-page-2.php:218
+msgid "Edit"
+msgstr ""
+
+#: ../content-jetpack-portfolio.php:61
+msgid "<div class=\"meta-nav\">Continue Reading... &rarr;</div>"
+msgstr ""
+
+#: ../content-jetpack-portfolio.php:62
+msgid "Portfolio:"
+msgstr ""
+
+#: ../content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:32
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:34 ../content.php:56
+msgid "Pages:"
+msgstr ""
+
+#: ../content.php:55
+msgid "<div class=\"meta-nav\">Read more... &rarr;</div>"
+msgstr ""
+
+#: ../functions.php:56
+msgid "First Top Menu"
+msgstr ""
+
+#: ../functions.php:58
+msgid "Second Top Menu"
+msgstr ""
+
+#: ../functions.php:60
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:144
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, Alegreya Sans, Allerta Stencil fonts, translate this to 'off'. Do not translate into your own language.
+#.
+#: ../functions.php:179
+msgctxt "Open Sans, Allerta Stencil, Alegreya Sans fonts: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional Open Sans character subset specific to your language,
+#. * translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate into your own language.
+#.
+#: ../functions.php:186
+msgctxt "Font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: ../functions.php:396
+msgid "Post navigation"
+msgstr ""
+
+#: ../functions.php:400
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: ../functions.php:402
+msgid "<span class=\"nav-next\">%title &rarr;</span>"
+msgstr ""
+
+#: ../functions.php:404
+msgid "<span class=\"nav-previous\">&larr; %title</span>"
+msgstr ""
+
+#: ../functions.php:407
+msgid "<span class=\"nav-previous-one\">&larr; %title</span>"
+msgstr ""
+
+#: ../functions.php:453
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../functions.php:454
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../functions.php:461
+msgid "Posts navigation"
+msgstr ""
+
+#: ../functions.php:544
+msgid "Leave a comment"
+msgstr ""
+
+#: ../functions.php:544
+msgid "1 Comment"
+msgstr ""
+
+#: ../functions.php:544
+msgid "% Comments"
+msgstr ""
+
+#: ../inc/admin-page.php:8
+msgid "About theme"
+msgstr ""
+
+#: ../inc/admin-page.php:8
+msgid "About Aladdin"
+msgstr ""
+
+#: ../inc/admin-page.php:24 ../inc/customize-info.php:129
+msgid "Help"
+msgstr ""
+
+#: ../inc/admin-page.php:27
+msgid "Need help with Aladdin? Click here!"
+msgstr ""
+
+#: ../inc/admin-page.php:69
+msgid "Main Info"
+msgstr ""
+
+#: ../inc/admin-page.php:71
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/admin-page.php:72
+msgid "Widgets"
+msgstr ""
+
+#: ../inc/admin-page.php:73 ../inc/customize-info.php:136
+msgid "http://wpblogs.ru/themes/documentation-aladdin/"
+msgstr ""
+
+#: ../inc/admin-page.php:73
+msgid "How to use a theme"
+msgstr ""
+
+#: ../inc/admin-page.php:74
+msgid "Support forum"
+msgstr ""
+
+#: ../inc/admin-page.php:75 ../inc/customize-info.php:104
+msgid "Rate on WordPress.org"
+msgstr ""
+
+#: ../inc/admin-page.php:77 ../inc/customize-info.php:153
+#: ../inc/customize-info.php:188
+msgid "Update to Pro"
+msgstr ""
+
+#: ../inc/admin-page.php:87
+msgid ""
+"You are using light version of Aladdin. Update to Aladdin Pro to have even "
+"more features. For Example:"
+msgstr ""
+
+#: ../inc/admin-page.php:89
+msgid "Unlimited custom colors."
+msgstr ""
+
+#: ../inc/admin-page.php:90
+msgid "Site/content width."
+msgstr ""
+
+#: ../inc/admin-page.php:91
+msgid "More widgets."
+msgstr ""
+
+#: ../inc/admin-page.php:92
+msgid "Footer copyright text options."
+msgstr ""
+
+#: ../inc/admin-page.php:102 ../inc/widget-image.php:405
+#: ../inc/widget-items-category.php:371 ../inc/widget-portfolio.php:708
+msgid "More Info"
+msgstr ""
+
+#: ../inc/customize-colors.php:21
+msgid "Blue"
+msgstr ""
+
+#: ../inc/customize-colors.php:22
+msgid "Green"
+msgstr ""
+
+#: ../inc/customize-colors.php:28
+msgid "Main Colors"
+msgstr ""
+
+#: ../inc/customize-colors.php:28
+msgid "Main website colors"
+msgstr ""
+
+#: ../inc/customize-colors.php:34
+msgid "Link"
+msgstr ""
+
+#: ../inc/customize-colors.php:40
+msgid "H1-H6 heading"
+msgstr ""
+
+#: ../inc/customize-colors.php:46
+msgid "H1-H6 Link"
+msgstr ""
+
+#: ../inc/customize-colors.php:52
+msgid "Description"
+msgstr ""
+
+#: ../inc/customize-colors.php:58
+msgid "Link Hover"
+msgstr ""
+
+#: ../inc/customize-colors.php:222
+msgid "Colors"
+msgstr ""
+
+#: ../inc/customize-colors.php:223
+msgid "In this section you can change colors for different elements."
+msgstr ""
+
+#: ../inc/customize-colors.php:228 ../inc/customize-colors.php:241
+msgid "Color Scheme"
+msgstr ""
+
+#: ../inc/customize-colors.php:229
+msgid "This option refresh theme colors."
+msgstr ""
+
+#: ../inc/customize-colors.php:287
+msgid "Opacity for the "
+msgstr ""
+
+#: ../inc/customize-fonts.php:38
+msgid "Fonts"
+msgstr ""
+
+#: ../inc/customize-fonts.php:39
+msgid "Selecting a google fonts."
+msgstr ""
+
+#: ../inc/customize-fonts.php:48
+msgid "Google Fonts"
+msgstr ""
+
+#: ../inc/customize-fonts.php:60
+msgid "Body Font"
+msgstr ""
+
+#: ../inc/customize-fonts.php:76
+msgid "Header Font"
+msgstr ""
+
+#: ../inc/customize-fonts.php:86 ../inc/customize-fonts.php:109
+msgid "Font Size"
+msgstr ""
+
+#: ../inc/customize-fonts.php:99
+msgid "Heading Font"
+msgstr ""
+
+#: ../inc/customize-fonts.php:123
+msgid "(px)"
+msgstr ""
+
+#: ../inc/customize-fonts.php:137
+msgid "Heading font size(px)"
+msgstr ""
+
+#: ../inc/customize-fonts.php:150
+msgid "Heading Font Weight"
+msgstr ""
+
+#: ../inc/customize-fonts.php:160 ../inc/customize-fonts.php:168
+msgid "Reset"
+msgstr ""
+
+#: ../inc/customize-fonts.php:161
+msgid "Reset font settings to default"
+msgstr ""
+
+#: ../inc/customize-fonts.php:189
+msgid "Lighter"
+msgstr ""
+
+#: ../inc/customize-fonts.php:190
+msgid "Normal"
+msgstr ""
+
+#: ../inc/customize-fonts.php:191
+msgid "Bold"
+msgstr ""
+
+#: ../inc/customize-fonts.php:257 ../inc/customize-other.php:117
+#: ../inc/customize-other.php:135
+msgid "None"
+msgstr ""
+
+#: ../inc/customize-info.php:45
+msgid ""
+"Development of this theme takes a lot of time and efforts to makes it all "
+"easy in use for you and works correctly. If you find this theme useful "
+"please consider supporting it by donation."
+msgstr ""
+
+#: ../inc/customize-info.php:57
+msgid "You will be transferred to PayPal secure site."
+msgstr ""
+
+#: ../inc/customize-info.php:70
+msgid "Info"
+msgstr ""
+
+#: ../inc/customize-info.php:71
+msgid "Info and Links."
+msgstr ""
+
+#: ../inc/customize-info.php:80
+msgid "Support"
+msgstr ""
+
+#: ../inc/customize-info.php:81
+msgid "Got something to say? Need help?"
+msgstr ""
+
+#: ../inc/customize-info.php:95 ../inc/customize-info.php:96
+msgid "View Support forum"
+msgstr ""
+
+#: ../inc/customize-info.php:105
+msgid ""
+"Share your thoughts about this theme. Your opinion is important for further "
+"improvement."
+msgstr ""
+
+#: ../inc/customize-info.php:119 ../inc/customize-info.php:120
+msgid "Rate"
+msgstr ""
+
+#: ../inc/customize-info.php:142
+msgid "How to use."
+msgstr ""
+
+#: ../inc/customize-info.php:143
+msgid "Open"
+msgstr ""
+
+#: ../inc/customize-info.php:160 ../inc/customize-info.php:182
+msgid "http://wpblogs.ru/themes/aladdin-pro/"
+msgstr ""
+
+#: ../inc/customize-info.php:166 ../inc/customize-info.php:167
+#: ../inc/customize-info.php:189
+msgid "Update Now"
+msgstr ""
+
+#: ../inc/customize-info.php:175
+msgid "More Colors"
+msgstr ""
+
+#: ../inc/customize-info.php:198 ../inc/customize-info.php:210
+#: ../inc/customize-info.php:211
+msgid "Donate"
+msgstr ""
+
+#: ../inc/customize-layout.php:19
+msgid "Layout"
+msgstr ""
+
+#: ../inc/customize-layout.php:20
+msgid "In this section you can choose layout settings."
+msgstr ""
+
+#: ../inc/customize-layout.php:33
+msgid "Featured Image"
+msgstr ""
+
+#: ../inc/customize-layout.php:34
+msgid "Image Size"
+msgstr ""
+
+#: ../inc/customize-layout.php:46
+msgid ""
+"Width of the Featured Image (Images should be updated with Regenerate "
+"Thumbnails plugin)."
+msgstr ""
+
+#: ../inc/customize-layout.php:58 ../inc/customize-mobile.php:29
+msgid "Columns"
+msgstr ""
+
+#: ../inc/customize-layout.php:59
+msgid "You can set the size of columns in this section"
+msgstr ""
+
+#: ../inc/customize-layout.php:71
+msgid "Unit"
+msgstr ""
+
+#: ../inc/customize-layout.php:76
+msgid "%"
+msgstr ""
+
+#: ../inc/customize-layout.php:91 ../inc/customize-layout.php:127
+#: ../inc/customize-layout.php:164 ../inc/customize-layout.php:200
+msgid "(%)"
+msgstr ""
+
+#: ../inc/customize-layout.php:111
+msgid "Width of the first column (two sidebars layout)"
+msgstr ""
+
+#: ../inc/customize-layout.php:147
+msgid "Width of the second column (two sidebars layout)"
+msgstr ""
+
+#: ../inc/customize-layout.php:184
+msgid "Width of the first column (left sidebar layout)"
+msgstr ""
+
+#: ../inc/customize-layout.php:220
+msgid "Width of the second column (right sidebar layout)"
+msgstr ""
+
+#: ../inc/customize-layout.php:233
+msgid "Check mark to display content on the static front page"
+msgstr ""
+
+#: ../inc/customize-layout.php:246
+msgid "Check mark to display footer sidebar on front page"
+msgstr ""
+
+#: ../inc/customize-layout.php:258
+msgid "Post"
+msgstr ""
+
+#: ../inc/customize-layout.php:259
+msgid "Customize posts"
+msgstr ""
+
+#: ../inc/customize-layout.php:271
+msgid "Post style"
+msgstr ""
+
+#: ../inc/customize-layout.php:287 ../inc/customize-layout.php:365
+#: ../inc/customize-layout.php:414
+msgid "Display Featured Image"
+msgstr ""
+
+#: ../inc/customize-layout.php:302 ../inc/customize-layout.php:380
+#: ../inc/customize-layout.php:429
+msgid "Display Title"
+msgstr ""
+
+#: ../inc/customize-layout.php:317
+msgid "Display Category List"
+msgstr ""
+
+#: ../inc/customize-layout.php:332 ../inc/customize-layout.php:459
+msgid "Display Tag List"
+msgstr ""
+
+#: ../inc/customize-layout.php:349
+msgid "Page style"
+msgstr ""
+
+#: ../inc/customize-layout.php:398
+msgid "Portfolio Archive/Index style"
+msgstr ""
+
+#: ../inc/customize-layout.php:444
+msgid "Display Project"
+msgstr ""
+
+#: ../inc/customize-layout.php:475
+msgid "Excerpt"
+msgstr ""
+
+#: ../inc/customize-layout.php:476
+msgid "Content"
+msgstr ""
+
+#: ../inc/customize-layout.php:477
+msgid "No Content"
+msgstr ""
+
+#: ../inc/customize-layout.php:497
+msgid "Full Width"
+msgstr ""
+
+#: ../inc/customize-layout.php:498
+msgid "Left Column"
+msgstr ""
+
+#: ../inc/customize-layout.php:499
+msgid "Right Column"
+msgstr ""
+
+#: ../inc/customize-layout.php:500
+msgid "Two Columns"
+msgstr ""
+
+#: ../inc/customize-layout.php:512
+msgid "Default (1 column)"
+msgstr ""
+
+#: ../inc/customize-layout.php:513
+msgid "1 column"
+msgstr ""
+
+#: ../inc/customize-layout.php:514
+msgid "2 columns"
+msgstr ""
+
+#: ../inc/customize-layout.php:515
+msgid "3 columns"
+msgstr ""
+
+#: ../inc/customize-layout.php:516
+msgid "4 columns"
+msgstr ""
+
+#: ../inc/customize-layout.php:641 ../inc/theme-options.php:229
+msgid "Home"
+msgstr ""
+
+#: ../inc/customize-layout.php:649 ../inc/theme-options.php:209
+#: ../inc/theme-options.php:364
+msgid "Blog"
+msgstr ""
+
+#: ../inc/customize-layout.php:657 ../inc/theme-options.php:219
+msgid "Search"
+msgstr ""
+
+#: ../inc/customize-layout.php:665
+msgid "Shop"
+msgstr ""
+
+#: ../inc/customize-layout.php:673
+msgid "Shop Page"
+msgstr ""
+
+#: ../inc/customize-layout.php:681 ../inc/theme-options.php:177
+msgid "Portfolio (Archive)"
+msgstr ""
+
+#: ../inc/customize-layout.php:689 ../inc/theme-options.php:167
+msgid "Portfolio (Page)"
+msgstr ""
+
+#: ../inc/customize-layout.php:697 ../inc/widget-page-2.php:502
+msgid "Page"
+msgstr ""
+
+#: ../inc/customize-layout.php:705 ../inc/theme-options.php:157
+msgid "Archive"
+msgstr ""
+
+#: ../inc/customize-layout.php:713 ../inc/theme-options.php:136
+msgid "Default"
+msgstr ""
+
+#: ../inc/customize-layout.php:797
+msgid "Layout settings for "
+msgstr ""
+
+#: ../inc/customize-layout.php:809
+msgid " layout"
+msgstr ""
+
+#: ../inc/customize-layout.php:827
+msgid " layout (content)"
+msgstr ""
+
+#: ../inc/customize-mobile.php:18
+msgid "Mobile"
+msgstr ""
+
+#: ../inc/customize-mobile.php:19
+msgid "Settings for mobile users."
+msgstr ""
+
+#: ../inc/customize-mobile.php:30
+msgid "Settings for small screens"
+msgstr ""
+
+#: ../inc/customize-mobile.php:42
+msgid "Switch point"
+msgstr ""
+
+#: ../inc/customize-mobile.php:51
+msgid "Order"
+msgstr ""
+
+#: ../inc/customize-mobile.php:52
+msgid "Order and visibility for columns on small screens"
+msgstr ""
+
+#: ../inc/customize-mobile.php:64
+msgid "Content and column-1, column-2 position for small screens"
+msgstr ""
+
+#: ../inc/customize-mobile.php:69
+msgid "Content-1-2"
+msgstr ""
+
+#: ../inc/customize-mobile.php:70
+msgid "Content-2-1"
+msgstr ""
+
+#: ../inc/customize-mobile.php:71
+msgid "1-Content-2"
+msgstr ""
+
+#: ../inc/customize-mobile.php:72
+msgid "2-Content-1"
+msgstr ""
+
+#: ../inc/customize-mobile.php:73
+msgid "1-2-Content"
+msgstr ""
+
+#: ../inc/customize-mobile.php:74
+msgid "2-1-Content"
+msgstr ""
+
+#: ../inc/customize-mobile.php:85
+msgid "Check mark to display first column on small screens"
+msgstr ""
+
+#: ../inc/customize-mobile.php:99
+msgid "Check mark to display second column on small screens"
+msgstr ""
+
+#: ../inc/customize-other.php:18
+msgid "Other Settings"
+msgstr ""
+
+#: ../inc/customize-other.php:19
+msgid "All other settings."
+msgstr ""
+
+#: ../inc/customize-other.php:28
+msgid "Logotype"
+msgstr ""
+
+#: ../inc/customize-other.php:40
+msgid "Logotype Image"
+msgstr ""
+
+#: ../inc/customize-other.php:48
+msgid "Navigation menu settings"
+msgstr ""
+
+#: ../inc/customize-other.php:60
+msgid "Switch On First Top Menu"
+msgstr ""
+
+#: ../inc/customize-other.php:75
+msgid "Switch On Second Top Menu"
+msgstr ""
+
+#: ../inc/customize-other.php:89
+msgid "Switch On Footer Menu"
+msgstr ""
+
+#: ../inc/customize-other.php:98
+msgid "Scroll To Top Button"
+msgstr ""
+
+#: ../inc/customize-other.php:112
+msgid "How to display the scroll to top button"
+msgstr ""
+
+#: ../inc/customize-other.php:118 ../inc/widget-image.php:312
+#: ../inc/widget-items-category.php:346 ../inc/widget-page-2.php:395
+#: ../inc/widget-portfolio.php:683
+msgid "Right"
+msgstr ""
+
+#: ../inc/customize-other.php:119 ../inc/widget-page-2.php:396
+msgid "Left"
+msgstr ""
+
+#: ../inc/customize-other.php:120 ../inc/widget-page-2.php:397
+msgid "Center"
+msgstr ""
+
+#: ../inc/customize-other.php:130
+msgid "How to animate the scroll to top button"
+msgstr ""
+
+#: ../inc/customize-other.php:136
+msgid "Jump"
+msgstr ""
+
+#: ../inc/customize-other.php:141 ../inc/customize-other.php:154
+msgid "Favicon"
+msgstr ""
+
+#: ../inc/customize-other.php:142
+msgid ""
+"You can select an Icon to be shown at the top of browser window by uploading "
+"from your computer. (Size: [16X16] px)"
+msgstr ""
+
+#: ../inc/customize-other.php:171
+msgid "Display Header Image on the Front Page only"
+msgstr ""
+
+#: ../inc/customize-other.php:180
+msgid "Theme Widgets"
+msgstr ""
+
+#: ../inc/customize-other.php:181
+msgid "You can hide/show predefined widgets in this section"
+msgstr ""
+
+#: ../inc/customize-other.php:192
+msgid "Display Widgets On Front Page"
+msgstr ""
+
+#: ../inc/customize-other.php:206
+msgid "Display Widgets on other pages"
+msgstr ""
+
+#: ../inc/customize-other.php:229
+msgid "Social Media Icons"
+msgstr ""
+
+#: ../inc/customize-other.php:230
+msgid ""
+"Add your Social Media Links. Use widget Social Icons to add icons to your "
+"the site."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:19
+msgid "Sidebars"
+msgstr ""
+
+#: ../inc/customize-sidebars.php:20
+msgid "In this section you can add or remove sidebars for particular pages."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:34
+msgid "You can add custom sidebars for the page(s) \""
+msgstr ""
+
+#: ../inc/customize-sidebars.php:34
+msgid ""
+"\" by selecting options in this section. Default sidebars won't be shown on "
+"this page(s)."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:35
+msgid "Default sidebars for all pages, post and custom post types."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:50
+msgid "Register default sidebars for all pages"
+msgstr ""
+
+#: ../inc/customize-sidebars.php:52
+msgid "Override default sidebars by custom sidebars on "
+msgstr ""
+
+#: ../inc/customize-sidebars.php:52
+msgid ""
+" (must be checked). Please, choose sidebars which you want to use on this "
+"page."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:108
+msgid "Page ["
+msgstr ""
+
+#: ../inc/customize-sidebars.php:109
+msgid "Per page sidebars for the page ["
+msgstr ""
+
+#: ../inc/customize-sidebars.php:124
+msgid "Uncheck this mark to remove section and custom sidebars for the page ["
+msgstr ""
+
+#: ../inc/customize-sidebars.php:161
+msgid "Custom sidebars"
+msgstr ""
+
+#: ../inc/customize-sidebars.php:162
+msgid ""
+"In this section you can create a sidebar for a certain page. Select page and "
+"press save. Refresh Customizer to see newly added section for that page."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:178
+msgid ""
+"Select a page and save data. Refresh Customizer to customize new section."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:257
+msgid "["
+msgstr ""
+
+#: ../inc/customize-sidebars.php:257
+msgid "] "
+msgstr ""
+
+#: ../inc/customize-widget-forms.php:27
+msgid "Parallax background"
+msgstr ""
+
+#: ../inc/customize-widget-forms.php:29
+msgid "Widget Icon:"
+msgstr ""
+
+#: ../inc/customize-widget-forms.php:30
+msgid "Fixed:"
+msgstr ""
+
+#: ../inc/customize-widget-forms.php:31
+msgid "Speed (10-100):"
+msgstr ""
+
+#: ../inc/customize-widget-forms.php:32
+msgid "Padding top (%):"
+msgstr ""
+
+#: ../inc/customize-widget-forms.php:33
+msgid "Padding bottom (%):"
+msgstr ""
+
+#: ../inc/customize-widget-forms.php:34
+msgid ""
+"Hide widget title (Background does not work without widget title, but you "
+"can hide it here)"
+msgstr ""
+
+#: ../inc/customize.php:16
+msgid "Customize Background"
+msgstr ""
+
+#: ../inc/customize.php:17
+msgid "Background."
+msgstr ""
+
+#: ../inc/customize.php:22
+msgid "Menu"
+msgstr ""
+
+#: ../inc/customize.php:23
+msgid "Navigation settings."
+msgstr ""
+
+#: ../inc/social-media-widget.php:12
+msgid "Display Social Media Links."
+msgstr ""
+
+#: ../inc/social-media-widget.php:21
+msgid "AlSocial Media Icons"
+msgstr ""
+
+#: ../inc/social-media-widget.php:82 ../inc/widget-image.php:285
+#: ../inc/widget-items-category.php:270 ../inc/widget-page-2.php:371
+#: ../inc/widget-portfolio.php:138 ../inc/widget-portfolio.php:315
+#: ../inc/widget-portfolio.php:606 ../inc/widget-sidebar-navigation.php:139
+msgid "Title: "
+msgstr ""
+
+#: ../inc/social-media-widget.php:84
+msgid "Small Icons."
+msgstr ""
+
+#: ../inc/social-media-widget.php:85
+msgid "Vertical Icons."
+msgstr ""
+
+#: ../inc/theme-options.php:82
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../inc/theme-options.php:82
+msgid "Powered by WordPress"
+msgstr ""
+
+#: ../inc/theme-options.php:82
+msgid "theme "
+msgstr ""
+
+#: ../inc/theme-options.php:82
+msgid "http://wpblogs.ru/themes/blog/theme/aladdin/"
+msgstr ""
+
+#: ../inc/theme-options.php:95
+msgid "First column"
+msgstr ""
+
+#: ../inc/theme-options.php:99
+msgid "Second column"
+msgstr ""
+
+#: ../inc/theme-options.php:103
+msgid "First Top Sidebar"
+msgstr ""
+
+#: ../inc/theme-options.php:107
+msgid "Before Footer Sidebar"
+msgstr ""
+
+#: ../inc/theme-options.php:111
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: ../inc/theme-options.php:115
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: ../inc/theme-options.php:119
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: ../inc/theme-options.php:128
+msgid "Static"
+msgstr ""
+
+#: ../inc/theme-options.php:147
+msgid "Pages"
+msgstr ""
+
+#: ../inc/theme-options.php:188
+msgid "Shop (Page)"
+msgstr ""
+
+#: ../inc/theme-options.php:198
+msgid "Shop (Archive)"
+msgstr ""
+
+#: ../inc/theme-options.php:239
+msgid "Page 404"
+msgstr ""
+
+#: ../inc/theme-options.php:294
+msgid "About"
+msgstr ""
+
+#: ../inc/theme-options.php:295
+msgid "Aladdin"
+msgstr ""
+
+#: ../inc/theme-options.php:302
+msgid ""
+"This is a widget page. This content can be replaced by any page from your "
+"website."
+msgstr ""
+
+#: ../inc/theme-options.php:309
+msgid "Widget Page"
+msgstr ""
+
+#: ../inc/theme-options.php:310
+msgid "Main features"
+msgstr ""
+
+#: ../inc/theme-options.php:317
+msgid ""
+"<ul><li>Feature number 1</li><li>Second feature</li><li>One more feature</"
+"li><li>Feature number 4</li></ul>"
+msgstr ""
+
+#: ../inc/theme-options.php:321
+msgid "Widget Image"
+msgstr ""
+
+#: ../inc/theme-options.php:349
+msgid "Image 1"
+msgstr ""
+
+#: ../inc/theme-options.php:350
+msgid "Image 2"
+msgstr ""
+
+#: ../inc/theme-options.php:351
+msgid "Image 3"
+msgstr ""
+
+#: ../inc/theme-options.php:352
+msgid "Image 4"
+msgstr ""
+
+#: ../inc/theme-options.php:353
+msgid "Image 5"
+msgstr ""
+
+#: ../inc/theme-options.php:354
+msgid "Image 6"
+msgstr ""
+
+#: ../inc/theme-options.php:355
+msgid "Description 1"
+msgstr ""
+
+#: ../inc/theme-options.php:356
+msgid "Description 2"
+msgstr ""
+
+#: ../inc/theme-options.php:357
+msgid "Description 3"
+msgstr ""
+
+#: ../inc/theme-options.php:358
+msgid "Description 4"
+msgstr ""
+
+#: ../inc/theme-options.php:359
+msgid "Description 5"
+msgstr ""
+
+#: ../inc/theme-options.php:360
+msgid "Description 6"
+msgstr ""
+
+#: ../inc/theme-options.php:430
+msgid "Contact us"
+msgstr ""
+
+#: ../inc/theme-options.php:443 ../inc/theme-options.php:477
+#: ../inc/widget-portfolio.php:329
+msgid "Projects"
+msgstr ""
+
+#: ../inc/theme-options.php:457
+msgid "Calendar"
+msgstr ""
+
+#: ../inc/theme-options.php:460 ../inc/widget-items-category.php:360
+msgid "Recent Posts"
+msgstr ""
+
+#: ../inc/theme-options.php:479 ../inc/widget-portfolio.php:697
+msgid "Recent Projects"
+msgstr ""
+
+#: ../inc/theme-options.php:498
+msgid "404 Page"
+msgstr ""
+
+#: ../inc/theme-options.php:499
+msgid "Ooops!"
+msgstr ""
+
+#: ../inc/theme-options.php:506
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../inc/theme-options.php:519 ../inc/widget-portfolio.php:151
+msgid "Tags"
+msgstr ""
+
+#: ../inc/widget-functions.php:55
+msgid "Hover Effect Style:"
+msgstr ""
+
+#: ../inc/widget-functions.php:58
+msgid "Caption (1)"
+msgstr ""
+
+#: ../inc/widget-functions.php:58
+msgid "50% (2)"
+msgstr ""
+
+#: ../inc/widget-functions.php:58
+msgid "Fast (3)"
+msgstr ""
+
+#: ../inc/widget-functions.php:59
+msgid "Slow (4)"
+msgstr ""
+
+#: ../inc/widget-functions.php:59
+msgid "Side (5)"
+msgstr ""
+
+#: ../inc/widget-functions.php:59
+msgid "Round (6)"
+msgstr ""
+
+#: ../inc/widget-functions.php:60
+msgid "Left To Right (7)"
+msgstr ""
+
+#: ../inc/widget-functions.php:61
+msgid "Jump (8)"
+msgstr ""
+
+#: ../inc/widget-functions.php:62
+msgid "Fly (9)"
+msgstr ""
+
+#: ../inc/widget-functions.php:63
+msgid "Zoom In (10)"
+msgstr ""
+
+#: ../inc/widget-functions.php:64
+msgid "Hovered (11)"
+msgstr ""
+
+#: ../inc/widget-functions.php:65
+msgid "Wide Hover (12)"
+msgstr ""
+
+#: ../inc/widget-functions.php:66
+msgid "Top (14)"
+msgstr ""
+
+#: ../inc/widget-functions.php:67
+msgid "Right To Left (15)"
+msgstr ""
+
+#: ../inc/widget-functions.php:68
+msgid "Bottom (16)"
+msgstr ""
+
+#: ../inc/widget-functions.php:69
+msgid "Caption Left (17)"
+msgstr ""
+
+#: ../inc/widget-functions.php:70
+msgid "Caption Right (18)"
+msgstr ""
+
+#: ../inc/widget-functions.php:71
+msgid "Caption Left-2 (19)"
+msgstr ""
+
+#: ../inc/widget-functions.php:72
+msgid "Caption Center (20)"
+msgstr ""
+
+#: ../inc/widget-functions.php:120
+msgid "Image Url or Id:"
+msgstr ""
+
+#: ../inc/widget-functions.php:122 ../inc/widget-functions.php:146
+msgid "Upload Image"
+msgstr ""
+
+#: ../inc/widget-functions.php:144
+msgid "Url:"
+msgstr ""
+
+#: ../inc/widget-image.php:21
+msgid "Display Custom Images with CSS3 hover effects."
+msgstr ""
+
+#: ../inc/widget-image.php:31
+msgid "Al Images (Aladdin)"
+msgstr ""
+
+#: ../inc/widget-image.php:287
+msgid "Main options"
+msgstr ""
+
+#: ../inc/widget-image.php:289 ../inc/widget-items-category.php:309
+#: ../inc/widget-page-2.php:409 ../inc/widget-portfolio.php:645
+msgid "Image Size:"
+msgstr ""
+
+#: ../inc/widget-image.php:292 ../inc/widget-items-category.php:312
+#: ../inc/widget-page-2.php:412 ../inc/widget-portfolio.php:648
+msgid "Post Thumbnail"
+msgstr ""
+
+#: ../inc/widget-image.php:292 ../inc/widget-items-category.php:312
+#: ../inc/widget-page-2.php:412 ../inc/widget-portfolio.php:648
+msgid "Thumbnail"
+msgstr ""
+
+#: ../inc/widget-image.php:292 ../inc/widget-items-category.php:312
+#: ../inc/widget-page-2.php:412 ../inc/widget-portfolio.php:648
+msgid "Large"
+msgstr ""
+
+#: ../inc/widget-image.php:292 ../inc/widget-items-category.php:312
+#: ../inc/widget-page-2.php:412 ../inc/widget-portfolio.php:648
+msgid "Full"
+msgstr ""
+
+#: ../inc/widget-image.php:305
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/widget-image.php:306 ../inc/widget-items-category.php:340
+#: ../inc/widget-portfolio.php:672
+msgid "Step Animation"
+msgstr ""
+
+#: ../inc/widget-image.php:307 ../inc/widget-items-category.php:336
+#: ../inc/widget-portfolio.php:673
+msgid "No Margins"
+msgstr ""
+
+#: ../inc/widget-image.php:313
+msgid "Main Title: "
+msgstr ""
+
+#: ../inc/widget-image.php:314
+msgid "Main Description: "
+msgstr ""
+
+#: ../inc/widget-image.php:323 ../inc/widget-image.php:330
+msgid "Image "
+msgstr ""
+
+#: ../inc/widget-image.php:339
+msgid "Image: "
+msgstr ""
+
+#: ../inc/widget-image.php:341
+msgid "Header: "
+msgstr ""
+
+#: ../inc/widget-image.php:343 ../inc/widget-items-category.php:334
+#: ../inc/widget-page-2.php:425 ../inc/widget-portfolio.php:670
+msgid "More options"
+msgstr ""
+
+#: ../inc/widget-image.php:345
+msgid "Text: "
+msgstr ""
+
+#: ../inc/widget-image.php:346 ../inc/widget-page-2.php:489
+msgid "Link: "
+msgstr ""
+
+#: ../inc/widget-image.php:347 ../inc/widget-items-category.php:342
+#: ../inc/widget-portfolio.php:676
+msgid "Animate"
+msgstr ""
+
+#: ../inc/widget-image.php:348 ../inc/widget-items-category.php:343
+#: ../inc/widget-portfolio.php:677
+msgid "Once"
+msgstr ""
+
+#: ../inc/widget-image.php:349 ../inc/widget-items-category.php:341
+#: ../inc/widget-page-2.php:468 ../inc/widget-portfolio.php:675
+msgid "Transparent"
+msgstr ""
+
+#: ../inc/widget-image.php:350
+msgid "Display Link"
+msgstr ""
+
+#: ../inc/widget-image.php:351
+msgid "Button caption: "
+msgstr ""
+
+#: ../inc/widget-image.php:362 ../inc/widget-items-category.php:293
+#: ../inc/widget-portfolio.php:629
+msgid "Columns:"
+msgstr ""
+
+#: ../inc/widget-image.php:365 ../inc/widget-items-category.php:297
+#: ../inc/widget-portfolio.php:633
+msgid "1"
+msgstr ""
+
+#: ../inc/widget-image.php:365 ../inc/widget-items-category.php:297
+#: ../inc/widget-portfolio.php:633
+msgid "2"
+msgstr ""
+
+#: ../inc/widget-image.php:365 ../inc/widget-items-category.php:297
+#: ../inc/widget-portfolio.php:633
+msgid "3"
+msgstr ""
+
+#: ../inc/widget-image.php:365 ../inc/widget-items-category.php:297
+#: ../inc/widget-portfolio.php:633
+msgid "4"
+msgstr ""
+
+#: ../inc/widget-image.php:376
+msgid "Count (press Apply): "
+msgstr ""
+
+#: ../inc/widget-image.php:387
+msgid "Image"
+msgstr ""
+
+#: ../inc/widget-image.php:395 ../inc/widget-image.php:428
+msgid "Title"
+msgstr ""
+
+#: ../inc/widget-image.php:411
+msgid "Description..."
+msgstr ""
+
+#: ../inc/widget-image.php:412
+msgid "Title..."
+msgstr ""
+
+#: ../inc/widget-image.php:438
+msgid "Read more..."
+msgstr ""
+
+#: ../inc/widget-items-category.php:21
+msgid "Display Items from the Category or latest posts."
+msgstr ""
+
+#: ../inc/widget-items-category.php:31
+msgid "Al Items from Category (Aladdin)"
+msgstr ""
+
+#: ../inc/widget-items-category.php:135 ../inc/widget-portfolio.php:470
+msgid "Open Archive"
+msgstr ""
+
+#: ../inc/widget-items-category.php:278 ../inc/widget-portfolio.php:614
+msgid "Category:"
+msgstr ""
+
+#: ../inc/widget-items-category.php:280 ../inc/widget-portfolio.php:616
+msgid "Any"
+msgstr ""
+
+#: ../inc/widget-items-category.php:326 ../inc/widget-portfolio.php:662
+msgid "Count: "
+msgstr ""
+
+#: ../inc/widget-items-category.php:337 ../inc/widget-portfolio.php:678
+msgid "Display Button"
+msgstr ""
+
+#: ../inc/widget-items-category.php:338 ../inc/widget-portfolio.php:680
+msgid "Display description block"
+msgstr ""
+
+#: ../inc/widget-page-2.php:21
+msgid "Display styled page"
+msgstr ""
+
+#: ../inc/widget-page-2.php:31
+msgid "Al Page Styled (Aladdin)"
+msgstr ""
+
+#: ../inc/widget-page-2.php:372
+msgid "No Title"
+msgstr ""
+
+#: ../inc/widget-page-2.php:373
+msgid "Text align center"
+msgstr ""
+
+#: ../inc/widget-page-2.php:374
+msgid "Display Image"
+msgstr ""
+
+#: ../inc/widget-page-2.php:375
+msgid "Add Search"
+msgstr ""
+
+#: ../inc/widget-page-2.php:379
+msgid "Page:"
+msgstr ""
+
+#: ../inc/widget-page-2.php:392
+msgid "Image position:"
+msgstr ""
+
+#: ../inc/widget-page-2.php:427
+msgid "Max width: "
+msgstr ""
+
+#: ../inc/widget-page-2.php:428
+msgid "Header Font size: "
+msgstr ""
+
+#: ../inc/widget-page-2.php:429
+msgid "Body Font size: "
+msgstr ""
+
+#: ../inc/widget-page-2.php:433
+msgid "Widget colors"
+msgstr ""
+
+#: ../inc/widget-page-2.php:437
+msgid "Background color: "
+msgstr ""
+
+#: ../inc/widget-page-2.php:438
+msgid "Background Opacity:"
+msgstr ""
+
+#: ../inc/widget-page-2.php:462
+msgid "Background Style:"
+msgstr ""
+
+#: ../inc/widget-page-2.php:465
+msgid "Full Width Color"
+msgstr ""
+
+#: ../inc/widget-page-2.php:466
+msgid "Both"
+msgstr ""
+
+#: ../inc/widget-page-2.php:467
+msgid "Small"
+msgstr ""
+
+#: ../inc/widget-page-2.php:480
+msgid "Header Font Color: "
+msgstr ""
+
+#: ../inc/widget-page-2.php:481
+msgid "Body Font Color: "
+msgstr ""
+
+#: ../inc/widget-page-2.php:485 ../inc/widget-page-2.php:520
+msgid "Button"
+msgstr ""
+
+#: ../inc/widget-page-2.php:487
+msgid "Add Button"
+msgstr ""
+
+#: ../inc/widget-page-2.php:488
+msgid "Caption: "
+msgstr ""
+
+#: ../inc/widget-portfolio.php:20
+msgid ""
+"Display portfolio tags navigation on both jetpack portfolio index and "
+"archive pages"
+msgstr ""
+
+#: ../inc/widget-portfolio.php:29
+msgid "Al Portfolio Tags Nav (Aladdin)"
+msgstr ""
+
+#: ../inc/widget-portfolio.php:72
+msgid "All Tags"
+msgstr ""
+
+#: ../inc/widget-portfolio.php:87
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/widget-portfolio.php:139 ../inc/widget-portfolio.php:316
+msgid "One page navigation (portfolio index)"
+msgstr ""
+
+#: ../inc/widget-portfolio.php:152 ../inc/widget-portfolio.php:330
+msgid "One page navigation"
+msgstr ""
+
+#: ../inc/widget-portfolio.php:186
+msgid "Display portfolio navigation on jetpack portfolio category/index page"
+msgstr ""
+
+#: ../inc/widget-portfolio.php:195
+msgid "Al Portfolio Project Nav (Aladdin)"
+msgstr ""
+
+#: ../inc/widget-portfolio.php:365
+msgid "Display Items from Portfolio."
+msgstr ""
+
+#: ../inc/widget-portfolio.php:375
+msgid "Al Items from Portfolio (Aladdin)"
+msgstr ""
+
+#: ../inc/widget-sidebar-navigation.php:20
+msgid "Display one page sidebar navigation"
+msgstr ""
+
+#: ../inc/widget-sidebar-navigation.php:29
+msgid "Al One Page Nav (Aladdin)"
+msgstr ""
+
+#: ../page-templates/full-width.php:9
+msgid "Full Width Template"
+msgstr ""
+
+#: ../page-templates/left-sidebar.php:9
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../page-templates/right-sidebar.php:9
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../page-templates/two-sidebars.php:9
+msgid "Two Sidebars"
+msgstr ""
+
+#: ../search.php:19
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: ../tag.php:20
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../taxonomy-jetpack-portfolio-type.php:20
+#, php-format
+msgid "Project type: %s"
+msgstr ""
